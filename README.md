@@ -1,6 +1,6 @@
 # Project - Birthday Buddy
 
-![Project-Image](./assets/project-img)
+![Project-Image](./assets/project-img.jpg)
 
 ## Project Details :
 
